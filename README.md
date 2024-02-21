@@ -14,10 +14,12 @@
 | 🎨 Projets  | 🖥️ Technologie          
 | :--------------- |:---------------:| 
 | [AZA-FLIX](https://github.com/ALIXZAMORO/Aza-flix-ALIXZAMORO) |   ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=Symfony&logoColor=white)     |  Aligné à droite |
-| [Aza-Recettes](https://github.com/ALIXZAMORO/Recettes-ALIXZAMORO)  | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)             |  
-| [NatureWebSite](https://github.com/ALIXZAMORO/NatureWebSite-ALIXZAMORO)  | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)         |    
+| [Ajout-de-tâche](https://github.com/ALIXZAMORO/ajout-de-tache-ALIXZAMORO)  | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)         | 
+| [NatureWebSite](https://github.com/ALIXZAMORO/NatureWebSite-ALIXZAMORO)  | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)         |
+| [Aza-Recettes](https://github.com/ALIXZAMORO/Recettes-ALIXZAMORO)  | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)             |   
 | [DJ-SoundBar](https://github.com/ALIXZAMORO/DJ-soundbar-ALIXZAMORO)  | ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)         |  
 | [Aza-Pub](https://github.com/ALIXZAMORO/aza-pub-ALIXZAMORO)  | ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)         | 
+
 
 ### Langages :
 
