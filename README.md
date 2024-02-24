@@ -8,6 +8,7 @@
 
 #### 📫 Me joindre : zamoroalix@gmail.com 
 #### 📔 Portfolio : https://portfolioalixzamoro.netlify.app/
+#### 👓 Linkedin : https://www.linkedin.com/in/alix-zamoro/
 
 ### Mes projets :
 
